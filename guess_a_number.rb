@@ -5,5 +5,6 @@ if guess  < number
 elseif guess > number
   puts "Too High"
 elsif guess = number
-  puts you guessed the  number
-end 
+  puts 'you guessed the  number'
+end
+end
